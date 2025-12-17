@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylelab1.css">
+</head>
+<body>
+    
+ <h1>Максим</h1>   
+ <h2>Гречко</h2>
+ <h3>28.04.2007</h3>
+ <h4>Спеціальність 123</h4>
+ <h5>37-КМ</h5>
+ <h6></h6>
+ <p>Улюблена цитата - Я тебя лю ♡. Вот и вся причина</p>
+
+<h1>Три факти про мене</h1>
+<ol>
+    <li>Я розумний</li>
+    <li>В мене є улюблена дівчина</li>
+    <li>Я хочу зробити їй пропозицію</li>
+    </ol>
+
+    <h1>Розклад занять на понеділок</h1>
+    <ul>
+        <li>Комп'ютерна електроніка</li>
+        <li>Електрорадіо-вимірювання</li>
+        <li>Основи екології \ Організація баз даних</li>
+    </ul>
+<img src="https://i.pinimg.com/736x/81/ab/47/81ab47831f2604f411eab8f00fe78e14.jpg" alt="https://i.pinimg.com/736x/54/23/04/542304e8d7449c6adcb4635fe46729cd.jpg">
+<input type="" name="">
+<br>
+<br>
+<button>OK</button>
+<br>
+<br>
+<table>
+    <tr>
+        <th>Заголовок 1</th> <th>Заголовок 2</th> <th>Заголовок 3</th> <th>Заголовок 4</th> <th>Заголовок 5</th> <th>Заголовок 6</th>
+        </tr>
+        <tr>
+            <td>Комірка 1</td> <td>Комірка 2</td>  <td>Комірка 3</td> <td>Комірка 4</td>   <td>Комірка 5</td> <td>Комірка 6</td>  
+    </tr>
+</table>
+<a href="https://github.com/maxgrechko2017-blip"></a>
+</body>
+</html>
